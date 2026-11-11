@@ -1,0 +1,6 @@
+<resources>
+    <!-- Window-level theme only; all UI theming lives in Compose (ui/theme/Theme.kt). -->
+    <style name="Theme.FarsiApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/app_background</item>
+    </style>
+</resources>

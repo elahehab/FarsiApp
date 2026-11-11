@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">الفبای فارسی</string>
+
+    <!-- Home -->
+    <string name="home_title">🎨 حروف الفبا</string>
+    <string name="home_subtitle">یک حرف را انتخاب کن</string>
+    <string name="home_locked">به‌زودی</string>
+    <string name="stars_count">%1$s / %2$s ⭐</string>
+
+    <!-- Lesson page titles -->
+    <string name="page_letter_intro">آموزش حرف %1$s</string>
+    <string name="page_story">داستان</string>
+    <string name="page_word_cards">کارت کلمات</string>
+    <string name="page_comprehension">درک مطلب</string>
+    <string name="page_word_detective">کارآگاه کلمات</string>
+    <string name="page_writing">تمرین نوشتن</string>
+    <string name="page_read">بخوان</string>
+    <string name="page_see_and_say">ببین و بگو</string>
+    <string name="page_find_letter">حرف %1$s را پیدا کن</string>
+
+    <!-- Lesson chrome -->
+    <string name="page_counter">%1$s / %2$s</string>
+    <string name="action_next">بعدی</string>
+    <string name="action_previous">قبلی</string>
+    <string name="action_finish">پایان 🎉</string>
+    <string name="action_back_home">بازگشت به حروف</string>
+    <string name="action_clear">پاک کن</string>
+    <string name="page_done">⭐ آفرین! این صفحه تمام شد</string>
+
+    <!-- Pages -->
+    <string name="intro_hint">روی هر شکلِ حرف بزن</string>
+    <string name="audio_playing">در حال پخش… 🎶</string>
+    <string name="cards_hint">روی هر کارت بزن و کلمه را بلند بخوان</string>
+    <string name="feedback_correct">✅ آفرین! درست است!</string>
+    <string name="feedback_wrong">❌ نادرست است. دوباره امتحان کن</string>
+    <string name="detective_status">%1$s کلمه پیدا شد (از %2$s کلمه هدف)</string>
+    <string name="writing_hint">با انگشتت روی حرف کم‌رنگ بکش</string>
+    <string name="read_hint">هر جمله را بخوان و بعد رویش بزن</string>
+
+    <!-- Completion -->
+    <string name="complete_title">🎉 آفرین! 🎉</string>
+    <string name="complete_message">درس حرف %1$s را تمام کردی</string>
+    <string name="action_replay">دوباره بازی کن</string>
+</resources>
